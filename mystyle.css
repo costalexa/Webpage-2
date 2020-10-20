@@ -1,0 +1,51 @@
+body {
+  background-color: #fffcf1;
+}
+
+h1 {
+  color: #a35c2c;
+  margin-left: 50px;
+}
+h2 {
+  color: #674833;
+  margin-left: 250px;
+}
+h3 {
+  color: #885f43;
+  margin-left: 275px;
+  writing-mode: vertical-rl
+}
+h4 {
+  color: #a97653;
+  margin-left: 300px;
+}
+h5 {
+  color: #ba9073;
+  margin-left: 325px;
+  writing-mode: vertical-rl
+}
+h6 {
+  color: #caaa94;
+  margin-left: 350px;
+}
+#coffee {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(beans.jpg) 50 round;
+}
+#coffee {
+margin: 0 auto;
+ padding: 0;
+ width: 100px;
+ height:425px;
+}
+#example1 {
+  background: url(cartoon.gif)left top no-repeat;
+  padding: 105px;
+  background-size: 275px, 200px, auto;
+}
+#coffee {
+  background: url(types.webp)left top no-repeat;
+  padding: 125px;
+  background-size: 350px, 300px, auto;
+}
