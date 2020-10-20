@@ -12,22 +12,25 @@ h2 {
 }
 h3 {
   color: #885f43;
-  margin-left: 275px;
+  margin-left: 265px;
   writing-mode: vertical-rl
 }
 h4 {
   color: #a97653;
-  margin-left: 300px;
-  p class="monospace";
+  margin-left: 280px;
 }
 h5 {
   color: #ba9073;
-  margin-left: 325px;
+  margin-left: 300px;
   writing-mode: vertical-rl
 }
 h6 {
   color: #261a12;
-  margin-left: 350px;
+  margin-left: 310px;
+}
+h7 {
+  color: #a35c2c;
+  margin-left: 310px;
 }
 #coffee {
   border: 10px solid transparent;
@@ -38,7 +41,7 @@ h6 {
 margin: 0 auto;
  padding: 0;
  width: 100px;
- height:425px;
+ height:100px;
 }
 #example1 {
   background: url(cartoon.gif)left top no-repeat;
@@ -46,7 +49,14 @@ margin: 0 auto;
   background-size: 275px, 200px, auto;
 }
 #coffee {
-  background: url(types.webp)left top no-repeat;
+  background: url(types.png)left top no-repeat;
   padding: 125px;
   background-size: 350px, 300px, auto;
+}
+#done {
+  background-color: #fffcf1;
+  width: 400px;
+  border: 5px solid #674833;
+  padding: 50px;
+  margin: 0 auto;
 }
