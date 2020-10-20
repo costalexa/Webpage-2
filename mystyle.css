@@ -30,7 +30,7 @@ h6 {
 }
 
 #coffee {
-  border: 25px solid transparent;
+  border: 30px solid transparent;
   padding: 15px;
   border-image: url(beans.jpg) 50 round;
 }
