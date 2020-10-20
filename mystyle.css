@@ -35,20 +35,17 @@ h6 {
   border-image: url(beans.jpg) 50 round;
 }
 #coffee {
-margin: 0 auto;
- padding: 0;
- width: 100px;
- height:100px;
+  background: url(types.png)left top no-repeat;
+  padding: 125px;
+  background-size: 350px, 300px, auto;
+  margin: 0 auto;
+  width: 100px;
+  height:100px;
 }
 #example1 {
   background: url(cartoon.gif)left top no-repeat;
   padding: 105px;
   background-size: 275px, 200px, auto;
-}
-#coffee {
-  background: url(types.png)left top no-repeat;
-  padding: 125px;
-  background-size: 350px, 300px, auto;
 }
 #done {
   background-color: #fffcf1;
